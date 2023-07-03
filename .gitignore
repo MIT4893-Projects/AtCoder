@@ -1,0 +1,10 @@
+*.exe
+
+/.vscode/
+/CodeSnap/
+
+tempCoderRunnerFile.*
+
+*.in
+*.inp
+*.out
